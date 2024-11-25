@@ -8,6 +8,6 @@ This repository will be used to practise commits, issues, branching and pull req
 ## Creating a new repository and adding content
 
 - [ ] Created repository
-- [ ] Updated content
+- asdf
 
 - [ ] hacer la tesis
