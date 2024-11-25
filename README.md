@@ -9,3 +9,5 @@ This repository will be used to practise commits, issues, branching and pull req
 
 - [ ] Created repository
 - [ ] Updated content
+
+- [ ] hacer la tesis
